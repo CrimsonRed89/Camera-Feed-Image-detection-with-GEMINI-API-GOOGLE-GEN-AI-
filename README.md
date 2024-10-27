@@ -2,7 +2,7 @@
 This project leverages Google Generative AI's Gemini model to provide real-time descriptions of objects and scenes captured by a camera. Each captured frame generates a brief text description, which is displayed on the screen and optionally spoken aloud for hands-free user experience.
 
 ## Features
-1. Real-Time Video Capture: Streams live video from your camera in a real-time feed.
+1. Real-Time Video Capture: Streams live video from your camera in a real-time feed. 
 2. AI-Based Description: Uses Google Generative AI to describe each frame with accurate, context-sensitive text.
 3. On-Screen Text: Display the generated description on each frame.
 4. Text-to-Speech (Optional): Automatically reads out descriptions, enhancing accessibility.

@@ -8,7 +8,7 @@ This project leverages Google Generative AI's Gemini model to provide real-time 
 4. Text-to-Speech (Optional): Automatically reads out descriptions, enhancing accessibility.
    
 ## Demo
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/b8e36d85-1f52-4245-8c81-8a833d1c835d">
+
 
 
 ## Installation
